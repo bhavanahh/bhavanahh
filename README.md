@@ -1,16 +1,18 @@
-## Hi there 👋
+### HEY, I'm Bhavana!
 
-<!--
-**bhavanahh/bhavanahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 2nd year Computer Science Engineering student under APJ Abdul Kalam Technological University 
 
-Here are some ideas to get you started:
+☕ Love chatting about anything from debugging to dreaming up new tech projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Polishing my skills in C programming and frontend development
+
+📖 Love making concepts simple for others
+
+🔗 Let’s connect and build something amazing together!
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhavana-b-7a350431b/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white)](https://github.com/bhavanahh)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=Instagram&logoColor=white)](https://www.instagram.com/bhvnahh)
+![Discord](https://img.shields.io/badge/Discord-%40bhvnasivgnga__07-5865F2?logo=discord&logoColor=white)
