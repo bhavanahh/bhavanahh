@@ -1,6 +1,6 @@
 ### HEY, I'm Bhavana!
 
-🌱 2nd year Computer Science Engineering student under APJ Abdul Kalam Technological University 
+🌱 Computer Science Engineering student 
 
 ☕ Love chatting about anything from debugging to dreaming up new tech projects
 
