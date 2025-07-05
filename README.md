@@ -9,6 +9,7 @@
 📖 Love making concepts simple for others
 
 🔗 Let’s connect and build something amazing together!
+[![Bhavanahh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavanahh)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔗 Connect with Me
 
