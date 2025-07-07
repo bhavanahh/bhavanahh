@@ -13,7 +13,7 @@
 
 ![Bhavanahh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavanahh&show_icons=true&theme=radical)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/bhavanahh)
+![LeetCode Stats](https://leetcard.jacoblin.cool/GJ8UkLSzwo)
 
 
 
