@@ -38,5 +38,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhavanahh&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-###  Profile visits
+###  heyo!
 ![Profile Views](https://komarev.com/ghpvc/?username=bhavanahh&color=16537E&style=for-the-badge)
