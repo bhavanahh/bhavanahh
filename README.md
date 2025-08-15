@@ -1,4 +1,4 @@
-### HEY, I'm Bhavana!
+### HEY, I'm BHAVANA!
 
 🌱 Computer Science Engineering student 
 
