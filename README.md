@@ -35,8 +35,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=Instagram&logoColor=white)](https://www.instagram.com/bhvnahh)
 ![Discord](https://img.shields.io/badge/Discord-%40bhvnasivgnga__07-5865F2?logo=discord&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhavanahh&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ###  heyo!
 ![Profile Views](https://komarev.com/ghpvc/?username=bhavanahh&color=16537E&style=for-the-badge)
