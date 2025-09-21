@@ -8,14 +8,14 @@
 
 📖 Love making concepts simple for others
 
-# 💻 Tech Stack:
+#  TECH STACK:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
+# LEETCODE STATS:
 ![LeetCode Streak](https://leetcard.jacoblin.cool/GJ8UkLSzwo?ext=heatmap)
 
 
-
+# GITHUB STATS:
 
 ![Bhavanahh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavanahh&show_icons=true&theme=radical)
 
@@ -28,7 +28,7 @@
 
 🔗 Let’s connect and build something amazing together!
 
-### 🔗 Connect with Me
+### 🔗 CONNECT WITH ME:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhavana-b-7a350431b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white)](https://github.com/bhavanahh)
