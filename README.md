@@ -20,11 +20,6 @@
 ![LeetCode Streak](https://leetcard.jacoblin.cool/GJ8UkLSzwo?ext=heatmap)
 
 
-# GITHUB STATS:
-
-
-
-![Bhavanahh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavanahh&show_icons=true&theme=radical)
 
 
 
