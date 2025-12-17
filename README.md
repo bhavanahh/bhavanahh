@@ -12,13 +12,6 @@
 📚 Polishing skills in C & frontend | 📖 Helping others grasp concepts with ease
 
 
-<!-- Quote Section -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
----
-
 ##  TECH STACK:
 
 
