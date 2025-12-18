@@ -7,6 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
+
 💻 CS Engineering | ☕ Tech talk, coding, and creative projects
 
 📚 Polishing skills in C & frontend | 📖 Helping others grasp concepts with ease
