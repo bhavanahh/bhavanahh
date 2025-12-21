@@ -25,12 +25,6 @@
 ![LeetCode Streak](https://leetcard.jacoblin.cool/GJ8UkLSzwo?ext=heatmap)
 
 
-
-## GITHUB STATS:
-![](https://nirzak-streak-stats.vercel.app/?user=bhavanahh&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavanahh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ##  CURRENT FOCUS:
 
 ```mermaid
