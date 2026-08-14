@@ -35,7 +35,7 @@
 ```mermaid
 graph LR
     A[Web Development] --> B[Data Structure And Algorithms]
-    B --> C[Project & Product Management]
+    B --> C[Project Management & Data Science]
     C --> D[Building Things]
     D --> A
     
