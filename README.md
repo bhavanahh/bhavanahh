@@ -1,16 +1,17 @@
 
 
-<div align="center">
-
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=65DDEF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhavana+B;Aspiring+Computer+Science+Engineer;Building+Projects+and+Learning+Daily" alt="Typing SVG" />
-</div>
-
 
 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
+
+
+<div align="center">
+
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=65DDEF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhavana+B;Aspiring+Computer+Science+Engineer;Building+Projects+and+Learning+Daily" alt="Typing SVG" />
 </div>
 
 
